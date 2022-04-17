@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CiudadanoPet
 
 Ciudadano Pet
@@ -46,3 +47,6 @@ Moved to [Live reloading and SASS compilation](https://cookiecutter-django.readt
 ## Deployment
 
 The following details how to deploy this application.
+=======
+# Entrega1FabricioGuiffrey
+>>>>>>> 662e9ed33091bba5a31d27b02cb49f556b0fb36a
